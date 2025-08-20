@@ -52,4 +52,4 @@ This project enables users to upload, manage, version, and share files securely.
 ---
 
 ## Author
-Sanita Gaikwad – Cloud Internship Project at Codec Technology
+Sanita Gaikwad – Cloud Internship Project at Codec Technologies
