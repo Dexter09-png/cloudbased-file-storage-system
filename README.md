@@ -49,3 +49,7 @@ A stylish and secure cloud-based file storage application—think of it as your 
 
 This project enables users to upload, manage, version, and share files securely. It supports popular cloud storage services (AWS S3, Azure Blob, GCS), OAuth 2.0 authentication, file versioning, and advanced sharing workflows via email and signed URLs.
 
+---
+
+## Author
+Sanita Gaikwad – Cloud Internship Project at Codec Technology
