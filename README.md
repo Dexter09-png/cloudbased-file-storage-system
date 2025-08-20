@@ -28,18 +28,17 @@ A stylish and secure cloud-based file storage application—think of it as your 
 ##  Setup Instructions
 
 ## Backend
-
-cd backend
-cp .env.example .env
+- cd backend
+- cp .env.example .env
 
 ## Fill in your credentials (Google, AWS, MongoDB, JWT, etc.)
-npm install
-npm start
+- npm install
+- npm start
 
 ## Frontend
-cd frontend
-npm install
-npm start
+- cd frontend
+- npm install
+- npm start
 
 ## Security Highlights
 - JWT Authentication keeps user sessions secure
